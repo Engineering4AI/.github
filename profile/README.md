@@ -4,6 +4,9 @@
 
 </div>
 
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
+> — **Harold Abelson**
+
 Engineering4AI is an open-source organization focused on practical AI software engineering: building small, auditable coding agents and sharing reproducible development practices.
 
 > **"Make software engineering for AI systems simple, verifiable, and repeatable."**
