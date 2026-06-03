@@ -15,6 +15,9 @@ Engineering4AI is an open-source organization focused on practical AI software e
 
 ## ⚙️ Projects in This Organization
 
+### [![nanoclaw](https://img.shields.io/badge/🏟️-nanoclaw-brightgreen?style=for-the-badge)](https://github.com/Engineering4AI/nanoclaw)
+A tiny coding agent focused on minimal, transparent, and auditable automated code changes.
+
 ### [![AutoHarness](https://img.shields.io/badge/🏟️-AutoHarness-blue?style=for-the-badge)](https://github.com/Engineering4AI/AutoHarness)
 A self-evolving coding agent in Rust with a minimal implementation that is designed to actually run and iterate.
 
