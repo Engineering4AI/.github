@@ -6,7 +6,7 @@
 
 Engineering4AI is an open-source organization focused on practical AI software engineering: building small, auditable coding agents and sharing reproducible development practices.
 
-> **"Make software engineering for AI systems simple, verifiable, and repeatable."**
+> **"Turning AI into Engineering."**
 
 **Our mission:** accelerate trustworthy AI-assisted development through transparent tooling, lightweight agents, and specification-first engineering workflows.
 
